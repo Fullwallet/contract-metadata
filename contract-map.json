@@ -3132,5 +3132,13 @@
     "erc721": true,
     "symbol": "LAND",
     "decimals": 0
+  },
+    "0xc7c169d1f0729dc7e1abd32c9453a36ccd3288f8": {
+    "name": "Fullwallet",
+    "logo": "Fullwallet.svg",
+    "erc20": true,
+    "symbol": "FW",
+    "decimals": 6
   }
+  
 }
